@@ -28,4 +28,4 @@
 
 ##
 
-![Snake animation](https://github.com/PuraFome)
+![Snake animation](https://github.com/PuraFome/PuraFome/blob/output/github-contribution-grid-snake.svg)
