@@ -28,7 +28,7 @@
 
 ##
 
-![Snake animation](https://github.com/PuraFome/PuraFome/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/PuraFome/PuraFome/blob/output/github-contribution-grid-snake.svg) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
