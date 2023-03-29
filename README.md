@@ -6,8 +6,18 @@
 
 <div > 
   <a href="https://github.com/PuraFome">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true&theme=radical">
-  <img heigth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuraFome&theme=radical&layout=compact">
+  
+  <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true&theme=radical">
+     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true&theme=radical">
+  </picture>
+
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PuraFome&theme=radical&layout=compact">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PuraFome&layout=compact">
+    <img heigth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuraFome&theme=radical&layout=compact">
+  </picture>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,8 +37,6 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 ##
-
-<!-- ![Snake animation](https://github.com/PuraFome/PuraFome/blob/output/github-contribution-grid-snake.svg) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PuraFome/PuraFome/output/github-snake-dark.svg" />
