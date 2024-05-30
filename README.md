@@ -8,11 +8,6 @@
 <div > 
   <a href="https://github.com/PuraFome">
   
-  <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true&theme=radical">
-     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=PuraFome&show_icons=true&theme=radical">
-  </picture>
 
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PuraFome&theme=radical&layout=compact">
