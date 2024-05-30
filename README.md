@@ -1,8 +1,6 @@
 ### Hi there 👋 my name is Samuel <source media="(prefers-color-scheme: light)" srcset="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4780557fe6fe09949ffab8ac5418563a3e11578fa2&rid=giphy.gif" width="48" height="48">
 <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif"  width="48" height="48">
 
-- 🔭 I’m currently working on angular, spring and postgres in Tributech
-- 🌱 I’m currently learning flutter, NX (mono repo) and reatc
 - 📫 How to reach me: samuelpe06062000@gmail.com
 
 <div > 
